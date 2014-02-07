@@ -108,7 +108,10 @@ public class LargeNetwork implements Layout {
 	 */
 	
 	
-	@Override
+	/*
+	 * @Override(non-Javadoc)
+	 * @see repast.simphony.visualization.Layout#getBoundingBox()
+	 */
 	public Box getBoundingBox() {
 		return new Box();
 	}

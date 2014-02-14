@@ -21,7 +21,7 @@
 		class="uk.ac.dmu.iesd.cascade.agents.aggregators.SupplierCoAdvancedModel"
 		number="1">
 		<prosumer class="uk.ac.dmu.iesd.cascade.agents.prosumers.HouseholdProsumer"
-			number="500">
+			number="300">
 			<lossRateMean>275</lossRateMean>
 			<lossRateSD>75</lossRateSD>
 			<thermalMassMean>12.5</thermalMassMean>
@@ -33,7 +33,7 @@
 		class="uk.ac.dmu.iesd.cascade.agents.aggregators.SupplierCoAdvancedModel"
 		number="1">
 		<prosumer class="uk.ac.dmu.iesd.cascade.agents.prosumers.HouseholdProsumer"
-			number="500">
+			number="300">
 			<lossRateMean>275</lossRateMean>
 			<lossRateSD>0</lossRateSD>
 			<thermalMassMean>12.5</thermalMassMean>
@@ -45,7 +45,7 @@
 		class="uk.ac.dmu.iesd.cascade.agents.aggregators.SupplierCoAdvancedModel"
 		number="1">
 		<prosumer class="uk.ac.dmu.iesd.cascade.agents.prosumers.HouseholdProsumer"
-			number="500">
+			number="300">
 			<lossRateMean>350</lossRateMean>
 			<lossRateSD>20</lossRateSD>
 			<thermalMassMean>10</thermalMassMean>

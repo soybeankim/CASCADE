@@ -34,7 +34,7 @@ public final class Consts {
 	 * this currently affects the size of all profile arrays, except heat space and hot water (along with historical arrays)
 	 * TODO: Remove this - should be gleaned from the input data - shouldn't have to set it!! 
 	 */
-	public static int NB_OF_DAYS_LOADED_DEMAND = 1;  // should be ideally 365 days (1 year) 
+	public static int NB_OF_DAYS_LOADED_DEMAND = 365;  // should be ideally 365 days (1 year) 
 	
 	//Controlling HHProsumers electricity consumption/usage
 	public static boolean HHPRO_HAS_ELEC_SPACE_HEAT = true;

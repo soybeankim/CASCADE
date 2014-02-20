@@ -354,7 +354,7 @@ public final class Consts {
 	
 	/**++++++++++++++++++++++++++
 	 * Single Non Domestic Constant
-	 *+++++++++++++++++++++++++++*/
+	 *+++++++++++++++++++++++++++*/ 
 	
 	public static final boolean USE_SINGLE_NON_DOMESTIC_AGGREGATOR = false;
 	public static final boolean UPDATE_PHYSICAL_NODE_TO_MARKET = true;
